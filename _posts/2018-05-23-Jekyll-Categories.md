@@ -16,6 +16,7 @@ Still working on the rest.
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
+  Filed under:
   {% for category in categories %}
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
