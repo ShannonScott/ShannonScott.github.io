@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Customization
-categories: Misc
+categories: Misc Jekyll
 ---
 
 # Notes on customizing Jekyll
