@@ -1,4 +1,6 @@
-# Personal Blog using Jekyll-Now
+# Personal Blogging with Jekyll-Now
+
+Experimenting with a personal blog using [Jekyll-Now](https://github.com/barryclark/jekyll-now).
 
 The blog site: [shannonscott.github.io](https://shannonscott.github.io/)
 
