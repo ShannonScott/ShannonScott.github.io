@@ -1,4 +1,4 @@
-# Blogging with Jekyll-Now
+# Personal Blog using Jekyll-Now
 
 The blog site: [shannonscott.github.io](https://shannonscott.github.io/)
 
