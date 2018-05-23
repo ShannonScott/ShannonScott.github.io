@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Initial post
+categories: Misc
 ---
 
 I am trying out [Jekyll-Now](https://github.com/barryclark/jekyll-now) on [Github](https://github.com) as a quick and easy way to blog.  We'll see how well this works in practice.
