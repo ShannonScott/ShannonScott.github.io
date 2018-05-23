@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Customization
+title: Jekyll Categories
 categories: Misc
 ---
 
